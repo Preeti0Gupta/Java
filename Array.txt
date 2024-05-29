@@ -1,0 +1,26 @@
+Array
+-->List of items of the same type
+
+Defining an array(1)
+-->type[]arrayName = new type[size];
+
+Defining an array(2)
+-->type[]arrayName = {1,2,3,4,5,6};
+
+
+-----2D array-----
+ Decleration
+ type[][] arrayName = new type[rows][columns];
+ int[][] numbers = new int[3][5];
+
+String
+
+    Declaration of strings
+        String name = "Tokyo";
+        String fullName = "Tokyo Profesor";
+        String sentence = "My name is Tokyo Profesor";
+
+Strings in java are immutable
+
+
+
